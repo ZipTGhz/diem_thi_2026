@@ -1,3 +1,7 @@
 *.py
 cleaned.jsonl
 raw.jsonl
+/target
+*.ipynb
+arr.txt
+/city_category
